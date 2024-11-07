@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi Everyone! I'm Ridwan Bagoes Setiawan.<br>👨‍💻I love programming so much!<br>It's because it trains my problem solving, creativity, and critical thinking. I want to keep learn about that<br>whenever i can. I'm so passionate about that. The harder the problem is, the more it challenges me to solve it<br><br>💡There are so many projects that i have built that includes:<br>-Website<br>-Mobile Application<br>-Embedded System<br>-Simulation and so much more<br><br>💻I recently getting more interested in Neural Networks and AI and currently learning the fundamental<br><br>
+Hi Everyone! I'm Ridwan Bagoes Setiawan.<br>👨‍💻I love programming so much!<br>It's because it trains my problem solving, creativity, and critical thinking. I want to keep learning about that whenever i can. I'm so passionate about that. The harder the problem is, the more it challenges me to solve it<br><br>💡There are so many projects that i have built that includes:<br>-Website<br>-Mobile Application<br>-Embedded System<br>-Simulation and so much more<br><br>💻I recently getting more interested in Neural Networks and AI and currently learning the fundamental<br><br>
 
 
 ## 🌐 Socials:
