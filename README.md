@@ -13,7 +13,7 @@ Hi Everyone! I'm Ridwan Bagoes Setiawan.<br>👨‍💻I love programming so muc
 ![iwansal64's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iwansal64&theme=ayu-mirage&show_icons=true&hide_border=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Iwansal64&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=iwansal64&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
