@@ -5,7 +5,7 @@
 <br><br>💻I'm getting interested in Neural Networks, Web3 and Cyber Security recently. I currently learning the fundamentals of them and I hope I'll be good atleast at one of these fields before 2026!
 <br><br>
 
-# 📊 GitHub Stats:
+<hr />
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iwansal64&theme=ayu-mirage&show_icons=true&hide_border=false&count_private=false" alt="Iwansal64's Stats" height="178" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iwansal64&langs_count=8&layout=compact&theme=ayu-mirage&show_icons=true&hide_border=false" alt="Iwansal64's Top Language" height="178" />
@@ -15,8 +15,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Iwansal64&theme=material-palenight&hide_border=false" alt="Iwansal64's activity graph" height="245" />
 </div>
 
-## 🏆 GitHub Trophies
+<br />
+<hr />
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=iwansal64&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
 <br />
 
 <hr />
@@ -45,9 +48,13 @@
 
 
 
+<hr />
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/iwann5087) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ridwan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iwan_wkwkw) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17246477) 
+<div align="center">
+  
+  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/iwann5087) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ridwan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iwan_wkwkw) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17246477) 
+
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Iwansal64&icon=0&color=6)](https://visitcount.itsvg.in)
