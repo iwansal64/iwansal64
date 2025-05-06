@@ -34,13 +34,13 @@
   </div>
   <div style="display: flex; align-items: flex-start;">
     <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" height="100" />
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="120" height="120" />
+    <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="120" height="120" />
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="200" height="200" />
     <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="120" height="120" />
     <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="100" height="100" />
   </div>
   <div style="display: flex; align-items: flex-start;">
-    <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="120" height="120" />
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="120" height="120" />
     <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="180" height="180" />
     <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="120" height="120" />
   </div>
