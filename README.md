@@ -12,7 +12,7 @@
 </div>
 <br />
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Iwansal64&theme=material-palenight&hide_border=false" alt="Iwansal64's activity graph" height="245" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iwansal64&theme=xcode&hide_border=true" alt="Iwansal64's activity graph" height="245" />
 </div>
 
 <br />
