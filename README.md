@@ -1,5 +1,4 @@
-# 💫 About Me:
-### Hi Everyone! I'm <i>Ridwan Bagoes Setiawan.</i><br>
+## Hi Everyone! I'm <i>Ridwan Bagoes Setiawan.</i>👋<br>
 👨‍💻I love programming so much!<br>I've been doing this almost 5 years and I never think of leaving programming because how I love it. I love programming because it's not always about creating cool stuffs but also creating solution. It also improved my problem solving skills and my critical thinking as well!
 <br><br>🧪I've created some projects along the way including; creating a fun snake game, personal website, marketplace website, and even personal assistance and basic pentesting tools!
 <br><br>💻I'm getting interested in Neural Networks, Web3 and Cyber Security recently. I currently learning the fundamentals of them and I hope I'll be good atleast at one of these fields before 2026!
@@ -24,7 +23,7 @@
 
 <hr />
 <div align="center">
-  <h1>🧪Tech Stack🔬</h1>
+ <h1>🧪Tech Stack🔬</h1>
 </div>
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
