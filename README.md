@@ -1,5 +1,5 @@
 ## Hi Everyone! I'm <i>Ridwan Bagoes Setiawan.</i>👋
-A passionate <b>System Engineer</b> and <b>Backend Developer</b>
+A passionate <b>System Engineer</b> and mainly focused on <b>Backend Developing</b>
 <br>
 <br>
 👨‍💻I love programming so much!<br>I've been doing this almost 5 years and I never think of leaving programming because how I love it. I love programming because it's not always about creating cool stuffs but also creating solution. It also improved my problem solving skills and my critical thinking as well!
