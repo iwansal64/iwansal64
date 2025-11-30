@@ -1,5 +1,5 @@
 ## Hi Everyone! I'm <i>Ridwan Bagoes Setiawan.</i>👋
-A passionate <b>System Engineer</b> and mainly focused on <b>Backend Developing</b>
+A passionate <b>System Engineer</b>, mainly focused on <b>Backend Development</b>
 <br>
 <br>
 👨‍💻I love programming so much!<br>I've been doing this almost 5 years and I never think of leaving programming because how I love it. I love programming because it's not always about creating cool stuffs but also creating solution. It also improved my problem solving skills and my critical thinking as well!
@@ -9,43 +9,34 @@ A passionate <b>System Engineer</b> and mainly focused on <b>Backend Developing<
 
 <hr />
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iwansal64&theme=ayu-mirage&show_icons=true&hide_border=false&count_private=false" alt="Iwansal64's Stats" height="178" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iwansal64&langs_count=8&layout=compact&theme=ayu-mirage&show_icons=true&hide_border=false" alt="Iwansal64's Top Language" height="178" />
-</div>
-<br />
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iwansal64&theme=xcode&hide_border=true" alt="Iwansal64's activity graph" height="245" />
 </div>
 
 <br />
-<hr />
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=iwansal64&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br />
 
 <hr />
+
+## 🧪Tech Stack🔬
 <div align="center">
- <h1>🧪Tech Stack🔬</h1>
-</div>
-<div align="center">
-  <div style="display: flex; align-items: flex-start;">
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="120" height="120" />
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="180" height="180" />
-    <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="120" height="120" />
-  </div>
-  <div style="display: flex; align-items: flex-start;">
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" height="100" />
-    <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="120" height="120" />
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="200" height="200" />
-    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="120" height="120" />
-    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="100" height="100" />
-  </div>
-  <div style="display: flex; align-items: flex-start;">
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="120" height="120" />
-    <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="180" height="180" />
-    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="120" height="120" />
-  </div>
+  <img src="https://img.icons8.com/?size=50&id=40669&format=png&color=000000" />
+  <img src="https://img.icons8.com/?size=50&id=40670&format=png&color=000000" />
+  <img src="https://img.icons8.com/?size=50&id=XWesbnSd4AUa&format=png&color=fc573b" />
+  <img src="https://img.icons8.com/?size=50&id=13441&format=png&color=000000" />
+  <img src="https://img.icons8.com/?size=50&id=108784&format=png&color=000000" />
+  <br />
+  <img src="https://img.icons8.com/?size=50&id=uJM6fQYqDaZK&format=png&color=000000" />
+  <img src="https://img.icons8.com/?size=50&id=7AFcZ2zirX6Y&format=png&color=000000" />
+  <img src="https://img.icons8.com/?size=50&id=f0R4xVI4Sc8O&format=png&color=000000" />
+  <img src="https://img.icons8.com/?size=50&id=8rKdRqZFLurS&format=png&color=000000" />
+  <img src="https://img.icons8.com/?size=50&id=hYoELNwniGhi&format=png&color=000000" />
+  <br />
+  <img src="https://img.icons8.com/?size=50&id=JRnxU7ZWP4mi&format=png&color=000000" />
+  <img src="https://img.icons8.com/?size=50&id=MWiBjkuHeMVq&format=png&color=000000" />
+  <img src="https://img.icons8.com/?size=50&id=N3G7bBnphi53&format=png&color=000000" />
+  <img src="https://img.icons8.com/?size=50&id=kXuRhjMIeKhk&format=png&color=000000" />
+  <img src="https://img.icons8.com/?size=50&id=Mm35TzLKahiF&format=png&color=000000" />
 </div>
 
 
