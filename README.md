@@ -54,7 +54,8 @@ A passionate <b>System Engineer</b>, mainly focused on <b>Backend Development</b
 
 <div align="center">
   
-  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/iwann5087) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iwan_wkwkw)
+  ![Static Badge](https://img.shields.io/badge/Telegram-lightblue?logo=telegram&logoColor=lightblue&logoSize=14&label=iwancode&labelColor=black&color=lightblue&link=t.me%2Fiwancode) ![Static Badge](https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=red&logoSize=14&label=iwan_wkwkw&labelColor=black&color=red&link=https%3A%2F%2Fwww.instagram.com%2Fiwan_wkwkw%2F)
+
 
 </div>
 
