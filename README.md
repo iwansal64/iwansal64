@@ -44,10 +44,17 @@ A passionate <b>System Engineer</b>, mainly focused on <b>Backend Development</b
 <br />
 
 <hr />
+<dl><dd>
+<div align="center">
+  <small>
+    If you want to reach me out, you can use these links! :)
+  </small>
+</div>
+</dl></dd>
 
 <div align="center">
   
-  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/iwann5087) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ridwan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iwan_wkwkw) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17246477) 
+  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/iwann5087) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iwan_wkwkw)
 
 </div>
 
