@@ -8,37 +8,27 @@ A passionate <b>System Engineer</b>, mainly focused on <b>Backend Development</b
 
 <hr />
 
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iwansal64&theme=xcode&hide_border=true" alt="Iwansal64's activity graph" height="245" />
-</div>
+![Iwansal64](https://count.getloli.com/@iwansal64?name=iwansal64&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 <br />
 
 <br />
 
 <hr />
-<h2>🧪Tech Stack🔬</h2>
+<h2>🧪Statistics🔬</h2>
 <div align="center">
-  <img src="https://img.icons8.com/?size=50&id=40669&format=png&color=000000" />
-  <img src="https://img.icons8.com/?size=50&id=40670&format=png&color=000000" />
-  <img src="https://img.icons8.com/?size=50&id=XWesbnSd4AUa&format=png&color=fc573b" />
-  <img src="https://img.icons8.com/?size=50&id=13441&format=png&color=000000" />
-  <img src="https://img.icons8.com/?size=50&id=108784&format=png&color=000000" />
-  <img src="https://img.icons8.com/?size=50&id=uJM6fQYqDaZK&format=png&color=000000" />
-  <img src="https://img.icons8.com/?size=50&id=7AFcZ2zirX6Y&format=png&color=000000" />
-  <img src="https://img.icons8.com/?size=50&id=f0R4xVI4Sc8O&format=png&color=000000" />
-  <img src="https://img.icons8.com/?size=50&id=8rKdRqZFLurS&format=png&color=000000" />
-  <img src="https://img.icons8.com/?size=50&id=hYoELNwniGhi&format=png&color=000000" />
-  <img src="https://img.icons8.com/?size=50&id=JRnxU7ZWP4mi&format=png&color=000000" />
-  <img src="https://img.icons8.com/?size=50&id=MWiBjkuHeMVq&format=png&color=000000" />
-  <img src="https://img.icons8.com/?size=50&id=N3G7bBnphi53&format=png&color=000000" />
-  <img src="https://img.icons8.com/?size=50&id=kXuRhjMIeKhk&format=png&color=000000" />
-  <img src="https://img.icons8.com/?size=50&id=Mm35TzLKahiF&format=png&color=000000" />
-</div>
+<table>
+  <tr>
+    <td valign="middle">
 
-<br />
-<br />
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=iwansal64&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=iwansal64&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=iwansal64&layout=compact&theme=radical)
+    
+  </td>
+  </tr>
+</table>
+</div>
 <br />
 <br />
 
